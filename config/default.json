@@ -1,0 +1,20 @@
+{
+    "homePageURL": "https://the-internet.herokuapp.com/",
+    "webDriver": {
+        "downloadDIR": "c:\\testdownloads",
+        "downloadFolderList": 2,
+        "neverAskSaveToDisk": "application/octet-stream"
+    },
+    "data": {
+        "localFilePath": "C:\\Users\\Nilwala\\Selenium\\WebUIAutomationTestAssignment\\data\\data_prod.xlsx",
+        "fromUrl": true,
+        "fileUrl": "https://raw.githubusercontent.com/nilwaladesilva/web_ui_automation/main/data/data_prod.xlsx",
+        "fileDownloadPath": "data.xlsx",
+        "sheets": {
+            "checkboxes": "checkboxes",
+            "keyPresses": "keyPresses",
+            "inputs": "inputs",
+            "addRemoveElements": "addRemoveElements"
+        }
+    }
+}

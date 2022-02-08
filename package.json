@@ -1,0 +1,18 @@
+{
+  "name": "webuiautomationtestassignment",
+  "version": "1.0.0",
+  "description": "Gapstars QA Web UI Automation Test Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index"
+  },
+  "author": "Nilwala De Silva",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "config": "^3.3.7",
+    "selenium-webdriver": "^4.1.1",
+    "xlsx": "^0.17.5"
+  }
+}
